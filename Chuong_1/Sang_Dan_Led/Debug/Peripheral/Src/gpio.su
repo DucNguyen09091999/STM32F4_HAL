@@ -1,0 +1,4 @@
+gpio.c:11:6:LED_Select	16	static
+gpio.c:67:6:Sang_Dan	16	static
+gpio.c:80:6:Tat_LED	16	static
+gpio.c:88:6:Bat_LED	16	static
